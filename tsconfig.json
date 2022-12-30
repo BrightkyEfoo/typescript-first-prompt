@@ -1,0 +1,12 @@
+{
+  "compileOnSave" : true,
+  "compilerOptions" : {
+    "experimentalDecorators":true,
+    "noEmitOnError" : true,
+    "strict" : true,
+    "target" : "es6",
+    "module" : "nodenext",
+    "noImplicitAny" : true,
+    "outDir" : "./dist",
+  }
+}

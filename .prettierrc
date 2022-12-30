@@ -1,0 +1,14 @@
+{
+  "arrowParens": "avoid",
+  "trailingComma": "none",
+  "singleQuote": true,
+  "semi": true,
+  "overrides": [
+    {
+      "files" : "src/**/*.ts",
+      "options": {
+        "printWidth": 140
+      }
+    }
+  ]
+}

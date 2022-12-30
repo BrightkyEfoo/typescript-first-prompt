@@ -1,0 +1,19 @@
+{
+  "name": "typescript-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.16"
+  }
+}
